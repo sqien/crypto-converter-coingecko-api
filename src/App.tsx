@@ -17,7 +17,7 @@ function App() {
   const [amount, setAmount] = useState('1');
   const [fromCurrency, setFromCurrency] = useState('bitcoin');
   const [toCurrency, setToCurrency] = useState('ethereum');
-  const [result, setResult] = useState<Number | null>(null);
+  const [result, setResult] = useState<number | null>(null);
 
   return (
     <>
