@@ -38,7 +38,7 @@ It fetches real-time cryptocurrency prices from **CoinGecko** or **CoinCap** API
 
 - <a href="https://www.coingecko.com/en/api">CoinGecko API</a>
 
-````
+
 
 ## 🚀 Getting Started
 
