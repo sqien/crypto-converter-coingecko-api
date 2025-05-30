@@ -1,6 +1,7 @@
-> <h1 align="center">🪙 Crypto Converter</h1>
+> <a href="https://sqien-crypto-convertor.netlify.app/"><h1 align="center">🪙 Crypto Converter</h1></a>
 
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
+<a href="https://sqien-crypto-convertor.netlify.app/"><h2 align="center">🟢Watch online page</h2></a>
 
 <img src="https://i.imgur.com/sZumiPU.gif" alt="" >
 
